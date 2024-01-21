@@ -361,7 +361,7 @@
                             {{ __("your hair care") }}
                         </h1>
                         <p class="text-[#FFFDD8] text-2xl mt-48 font-[YsabeauInfant-Regular]">
-                            {{ __("the invitation <br>to get to know your best hair" )}}
+                            {{ __("the invitation to get to know your best hair" )}}
                         </p>
                     </div>
                     <div class="w-full flex justify-center z-20 overflow-hidden" x-data="{selected: 0}" x-init="setInterval(() => selected = (selected + 1) % 3, 10000)">
