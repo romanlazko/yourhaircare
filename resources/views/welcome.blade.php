@@ -346,7 +346,7 @@
                     </div>
                 </div>
 
-                <a href="" class="inline-block cursor-pointer font-[Beautique-Light] text-[#001101] text-2xl">
+                <a href="" class="inline-block cursor-pointer font-[Beautique-Light] text-[#001101] text-xl">
                     @yourhaircare_cz
                 </a>
             </div>
@@ -356,12 +356,12 @@
             {{-- MAIN SECTION --}}
             <section class="w-full bg-[#001101]">
                 <div class="py-16 md:py-24 max-w-7xl m-auto relative justify-center">
-                    <div class="w-full absolute z-30 text-center p-0" >
-                        <h1 class="text-5xl text-center uppercase md:text-8xl mt-24 font-[Beautique-Medium] text-gold gold-animation">
+                    <div class="w-full absolute z-30 text-center px-4" >
+                        <h1 class="text-[40px] text-center uppercase md:text-8xl mt-28 font-[Beautique-Medium] text-gold gold-animation">
                             {{ __("your hair care") }}
                         </h1>
-                        <p class="text-[#FFFDD8] text-2xl mt-48 font-[YsabeauInfant-Regular]">
-                            {{ __("the invitation to get to know your best hair" )}}
+                        <p class="text-[#FFFDD8] text-xl sm:text-2xl mt-28 font-[YsabeauInfant-Regular]">
+                            {{ __("the invitation" )}}<br> {{ __("to get to know your best hair" )}}
                         </p>
                     </div>
                     <div class="w-full flex justify-center z-20 overflow-hidden" x-data="{selected: 0}" x-init="setInterval(() => selected = (selected + 1) % 3, 10000)">
@@ -419,7 +419,7 @@
             {{-- 10% GIFT --}}
             <section class="w-full flex-1 bg-gold gold-animation">
                 <div class="py-8 max-w-7xl px-3 sm:px-6 m-auto text-center">
-                    <h4 class="text-md sm:text-lg md:text-xl uppercase font-[YsabeauInfant-Regular]">meet the master and get a gift</h3>
+                    <h4 class=" text-sm sm:text-lg md:text-xl uppercase font-[YsabeauInfant-Regular]">meet the master and get a gift</h3>
                     <h3 class="text-lg sm:text-2xl md:text-3xl font-bold uppercase font-[YsabeauInfant-Bold]">10% on your first procedure</h2>
                 </div>
             </section>
@@ -436,14 +436,14 @@
                                 </x-h2>
                             </li>
                             <li class="flex space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("application of an acidic composition for perfect straightening, including afro hair") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("providing mdoothness and silkiness for a long-lasting effect") }}
                                 </p>
                             </li>
@@ -464,14 +464,14 @@
                                 </x-h2>
                             </li>
                             <li class="flex space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("reduction of frizz and achievement of a long-lasting effect") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("suitable for those dreaming of straight, smooth hair") }}
                                 </p>
                             </li>
@@ -492,14 +492,14 @@
                                 </x-h2>
                             </li>
                             <li class="flex space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("safe extensions using material identical to natural hair") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("attachment to mini-braids and integration of donor strands without tangles or glue") }}
                                 </p>
                             </li>
@@ -520,14 +520,14 @@
                                 </x-h2>
                             </li>
                             <li class="flex space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("adding shine and caring for dry, brittle, or damaged hair") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("ideal combination with colouring for comprehensive care") }}
                                 </p>
                             </li>
@@ -548,26 +548,26 @@
                                 </x-h2>
                             </li>
                             <li class="flex space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("designed for dry, dehydrated, and damaged hair") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("contains deep-penetrating components") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("provides hair with elasticity, strength, and softness") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("no straightening or glossy effect") }}
                                 </p>
                             </li>
@@ -588,14 +588,14 @@
                                 </x-h2>
                             </li>
                             <li class="flex space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("gentle removal of dry and damaged hair tips") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("suitable for all hair types") }}
                                 </p>
                             </li>
@@ -616,14 +616,14 @@
                                 </x-h2>
                             </li>
                             <li class="flex space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("trimming damaged tips with subsequent spa care") }}
                                 </p>
                             </li>
-                            <li class="flex items-center space-x-4">
-                                <span class="text-3xl leading-12 text-[#C9A43D]">•</span> 
-                                <p class="leading-12">
+                            <li class="flex space-x-4">
+                                <span class="text-3xl text-[#C9A43D]">■</span> 
+                                <p class="leading-9">
                                     {{ __("optimal service for maintaining the health and beauty of hair") }}
                                 </p>
                             </li>
