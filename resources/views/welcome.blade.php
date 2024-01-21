@@ -357,7 +357,7 @@
             <section class="w-full bg-[#001101]">
                 <div class="py-16 md:py-24 max-w-7xl m-auto relative justify-center">
                     <div class="w-full absolute z-30 text-center px-4" >
-                        <h1 class="text-[40px] text-center uppercase md:text-8xl mt-28 font-[Beautique-Medium] text-gold gold-animation">
+                        <h1 class="text-[40px] text-center uppercase md:text-8xl mt-28 font-[Beautique-Medium] text-gold gold-animation tracking-widest">
                             {{ __("your hair care") }}
                         </h1>
                         <p class="text-[#FFFDD8] text-xl sm:text-2xl mt-28 font-[YsabeauInfant-Regular]">
