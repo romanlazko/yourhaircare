@@ -1,0 +1,40 @@
+{
+  "public/fonts/BeautiqueDisplay-Black.otf": {
+    "file": "assets/BeautiqueDisplay-Black-5UHNu73I.otf",
+    "src": "public/fonts/BeautiqueDisplay-Black.otf"
+  },
+  "public/fonts/BeautiqueDisplay-Light.otf": {
+    "file": "assets/BeautiqueDisplay-Light-JWcmHOwN.otf",
+    "src": "public/fonts/BeautiqueDisplay-Light.otf"
+  },
+  "public/fonts/BeautiqueDisplay-Medium.otf": {
+    "file": "assets/BeautiqueDisplay-Medium-ZctrqNnL.otf",
+    "src": "public/fonts/BeautiqueDisplay-Medium.otf"
+  },
+  "public/fonts/YsabeauInfant-Bold.ttf": {
+    "file": "assets/YsabeauInfant-Bold-mZiyM-n7.ttf",
+    "src": "public/fonts/YsabeauInfant-Bold.ttf"
+  },
+  "public/fonts/YsabeauInfant-Medium.ttf": {
+    "file": "assets/YsabeauInfant-Medium-pSJt4l2M.ttf",
+    "src": "public/fonts/YsabeauInfant-Medium.ttf"
+  },
+  "public/fonts/YsabeauInfant-Regular.ttf": {
+    "file": "assets/YsabeauInfant-Regular-l3LUkOqT.ttf",
+    "src": "public/fonts/YsabeauInfant-Regular.ttf"
+  },
+  "public/img/gold3.avif": {
+    "file": "assets/gold3-UDXi9JOp.avif",
+    "src": "public/img/gold3.avif"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-K-oTvZNM.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-vZDQhnJA.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
