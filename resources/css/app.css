@@ -1,0 +1,71 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: Beautique-Bold;
+        src: url('/public/fonts/BeautiqueDisplay-Black.otf') format('opentype');
+    }
+    @font-face {
+        font-family: Beautique-Light;
+        src: url('/public/fonts/BeautiqueDisplay-Light.otf') format('opentype');
+    }
+    @font-face {
+        font-family: Beautique-Medium;
+        src: url('/public/fonts/BeautiqueDisplay-Medium.otf') format('opentype');
+    }
+
+    @font-face {
+        font-family: YsabeauInfant-Regular;
+        src: url('/public/fonts/YsabeauInfant-Regular.ttf') format('opentype');
+    }
+    @font-face {
+        font-family: YsabeauInfant-Medium;
+        src: url('/public/fonts/YsabeauInfant-Medium.ttf') format('opentype');
+    }
+    @font-face {
+        font-family: YsabeauInfant-Bold;
+        src: url('/public/fonts/YsabeauInfant-Bold.ttf') format('opentype');
+    }
+}
+
+.bg-gold {
+    background: url('/public/img/gold3.avif'); 
+    background-size: 200%;
+    background-position: 0%;
+}
+
+.text-gold {
+    background: url('/public/img/gold3.avif'); 
+    background-size: 200%;
+    background-position: 0%;
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    color: transparent;
+}
+
+.gold-animation {
+    animation-name: gold; 
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+
+.hover-gold-animation:hover {
+    scale: 1.01;
+    animation-name: gold; animation-duration: 1.5s;
+    animation-iteration-count:infinite;
+}
+
+@keyframes gold {
+    0% {
+        background-position: 0% 0;
+    }
+    50% {
+        background-position: 50% 0;
+    }
+    100% {
+        background-position: 0% 0;
+    }
+}
