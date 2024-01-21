@@ -358,10 +358,10 @@
                 <div class="py-16 md:py-24 max-w-7xl m-auto relative justify-center">
                     <div class="w-full absolute z-30 text-center p-0" >
                         <h1 class="text-5xl text-center uppercase md:text-8xl mt-24 font-[Beautique-Medium] text-gold gold-animation">
-                            your hair care
+                            {{ __("your hair care") }}
                         </h1>
                         <p class="text-[#FFFDD8] text-2xl mt-48 font-[YsabeauInfant-Regular]">
-                            the invitation <br>to get to know your best hair
+                            {{ __("the invitation <br>to get to know your best hair" )}}
                         </p>
                     </div>
                     <div class="w-full flex justify-center z-20 overflow-hidden" x-data="{selected: 0}" x-init="setInterval(() => selected = (selected + 1) % 3, 10000)">
