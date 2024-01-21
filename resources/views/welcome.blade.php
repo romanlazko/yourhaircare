@@ -297,7 +297,7 @@
                 <li><span class="border border-[#C9A43D] h-max"></span></li>
                 
                 <li>
-                    <a href="" class="cursor-pointer hover:underline">
+                    <a href="https://webapp.buukan.com/5" class="cursor-pointer hover:underline">
                         {{ __("Reservation system") }}
                     </a>
                 </li>
@@ -340,7 +340,7 @@
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="#services_prices">{{ __("Services & prices") }}</a>
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="#frequently_asked_questions">{{ __("Questions") }}</a>
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="#testimonial">{{ __("Testimonial") }}</a>
-                            <a class="block w-full p-2 hover:text-[#fad56e]" href="">{{ __("Reservation system") }}</a>
+                            <a class="block w-full p-2 hover:text-[#fad56e]" href="https://webapp.buukan.com/5">{{ __("Reservation system") }}</a>
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="">{{ __("CZ") }}</a>
                         </div>
                     </div>
