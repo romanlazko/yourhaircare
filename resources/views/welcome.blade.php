@@ -341,7 +341,15 @@
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="#frequently_asked_questions">{{ __("Questions") }}</a>
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="#testimonial">{{ __("Testimonial") }}</a>
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="https://webapp.buukan.com/5">{{ __("Reservation system") }}</a>
-                            <a class="block w-full p-2 hover:text-[#fad56e]" href="">{{ __("CZ") }}</a>
+                            @if (app()->getLocale() == 'en')
+                                <a class="block w-full p-2 hover:text-[#fad56e]" href="{{ route('language', 'cz') }}">
+                                    CZ
+                                </a>
+                            @else
+                                <a class="block w-full p-2 hover:text-[#fad56e]" href="{{ route('language', 'en') }}">
+                                    EN
+                                </a>
+                            @endif
                         </div>
                     </div>
                 </div>
