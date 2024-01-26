@@ -319,7 +319,7 @@
                 <li><span class="border border-[#C9A43D] h-max"></span></li>
 
                 <li>
-                    <a href="" class="inline-block cursor-pointer font-[Beautique-Light] text-[#001101]">
+                    <a href="" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl">
                         @yourhaircare_cz
                     </a>
                 </li>
@@ -346,7 +346,7 @@
                     </div>
                 </div>
 
-                <a href="" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-xl">
+                <a href="" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl">
                     @yourhaircare_cz
                 </a>
             </div>
@@ -841,7 +841,7 @@
                 <x-reservation-button/>>
                 
                 <div class="flex">
-                    <a href="" class="text-2xl font-[Cormorant] hover-gold-animation m-auto text-gold">
+                    <a href="" class="text-3xl font-[Cormorant] hover-gold-animation m-auto text-gold">
                         <i class="fa-brands fa-instagram"></i>
                         yourhaircare_cz
                     </a>
