@@ -89,7 +89,7 @@ $maxWidth = [
         <div class="w-full h-1" style="background: url('/img/gold3.avif'); background-size: cover"></div>
 
         <div class="flex-1 overflow-x-hidden overflow-y-auto p-4 text-[#FFFDD8] font-[YsabeauInfant-Regular] space-y-8 py-8">
-            <h2 class="text-2xl md:text-4xl uppercase font-[Beautique-Light] text-gold gold-animation">
+            <h2 class="text-2xl md:text-4xl uppercase font-[Cormorant] text-gold gold-animation">
                 {{ $title }}
             </h2>
             <p class="text-gold">
@@ -106,7 +106,7 @@ $maxWidth = [
             </p>
             <x-reservation-button/>
             <p class="text-[#b0af9b]">
-                * The final price and time depends on the thickness and length, you will receive a free consultation with a hairdresser if needed
+                {{ __("* The final price and time depends on the thickness and length, you will receive a free consultation with a hairdresser if needed") }}
             </p>
         </div>
     </div>

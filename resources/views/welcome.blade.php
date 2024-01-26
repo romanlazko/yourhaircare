@@ -357,31 +357,31 @@
             <section class="w-full bg-[#001101]">
                 <div class="py-16 md:py-24 max-w-7xl m-auto relative justify-center">
                     <div class="w-full absolute z-30 text-center px-4" >
-                        <h1 class="text-[40px] text-center uppercase md:text-8xl mt-28 font-[Beautique-Medium] text-gold gold-animation tracking-widest">
+                        <h1 class="text-[40px] text-center uppercase md:text-8xl mt-28 font-[Cormorant] font-medium text-gold gold-animation tracking-widest">
                             {{ __("your hair care") }}
                         </h1>
                         <p class="text-[#FFFDD8] text-xl sm:text-2xl mt-28 font-[YsabeauInfant-Regular]">
                             {{ __("the invitation" )}}<br> {{ __("to get to know your best hair" )}}
                         </p>
                     </div>
-                    <div class="w-full flex justify-center z-20 overflow-hidden" x-data="{selected: 0}" x-init="setInterval(() => selected = (selected + 1) % 3, 10000)">
+                    <div class="w-full flex justify-center z-20 overflow-hidden" x-data="{selected: 0}" x-init="setInterval(() => selected = (selected + 1) % 3, 5000)">
                         <img
                             src="img/photos/main_photo2.png"
                             alt=""
                             class="transition-transform ease-in-out duration-1000 transform w-full"
-                            :class="{ 'translate-x-0 scale-0 sm:scale-[0.70] z-0': selected === 0, 'translate-x-[100%] z-20': selected === 1, 'translate-x-[200%] scale-0 sm:scale-[0.70] z-20': selected === 2 }"
+                            :class="{ 'translate-x-[10%] scale-[0.70] z-0': selected === 0, 'translate-x-[100%] z-20': selected === 1, 'translate-x-[190%] scale-[0.70] z-20': selected === 2 }"
                         />
                         <img
                             src="img/photos/main_photo1.png"
                             alt=""
                             class="transition-transform ease-in-out duration-1000 transform w-full"
-                            :class="{ 'translate-x-0 z-20': selected === 0, 'translate-x-[100%] scale-0 sm:scale-[0.70] z-20': selected === 1, 'translate-x-[-100%] scale-0 sm:scale-[0.70] z-0': selected === 2 }"
+                            :class="{ 'translate-x-0 z-20': selected === 0, 'translate-x-[90%] scale-[0.70] z-20': selected === 1, 'translate-x-[-90%] scale-[0.70] z-0': selected === 2 }"
                         />
                         <img
                             src="img/photos/main_photo3.png"
                             alt=""
                             class="transition-transform ease-in-out duration-1000 transform w-full"
-                            :class="{ 'translate-x-0 scale-0 sm:scale-[0.70] z-0': selected === 0, 'translate-x-[-200%] scale-0 sm:scale-[0.70] z-0': selected === 1, 'translate-x-[-100%] z-0': selected === 2 }"
+                            :class="{ 'translate-x-[-10%] scale-[0.70] z-0': selected === 0, 'translate-x-[-190%] scale-[0.70] z-0': selected === 1, 'translate-x-[-100%] z-0': selected === 2 }"
                         />
                     </div>
                 </div>
@@ -419,8 +419,8 @@
             {{-- 10% GIFT --}}
             <section class="w-full flex-1 bg-gold gold-animation">
                 <div class="py-8 max-w-7xl px-3 sm:px-6 m-auto text-center">
-                    <h4 class=" text-sm sm:text-lg md:text-xl uppercase font-[YsabeauInfant-Regular]">meet the master and get a gift</h3>
-                    <h3 class="text-lg sm:text-2xl md:text-3xl font-bold uppercase font-[YsabeauInfant-Bold]">10% on your first procedure</h2>
+                    <h4 class=" text-sm sm:text-lg md:text-xl uppercase font-[YsabeauInfant-Regular]">{{ __("meet the master and get a gift") }}</h3>
+                    <h3 class="text-lg sm:text-2xl md:text-3xl font-bold uppercase font-[YsabeauInfant-Bold]">{{ __("10% on your first procedure") }}</h2>
                 </div>
             </section>
 
@@ -691,25 +691,25 @@
                             </p>
                             <ul class="list-inside list-disc space-y-4">
                                 <li>
-                                    Choose a shampoo suitable for your scalp type. Only wash the roots, avoiding the length of the hair.
+                                    {{ __("Choose a shampoo suitable for your scalp type. Only wash the roots, avoiding the length of the hair.") }}
                                 </li>
                                 <li>
-                                    After each shampoo, apply conditioner for 1-2 minutes.
+                                    {{ __("After each shampoo, apply conditioner for 1-2 minutes.") }}
                                 </li>
                                 <li>
-                                    Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair (squeeze out excess water with a towel), leave it on for 7-10 minutes, and then follow with a 1-2 minute application of conditioner. Rinse with water.
+                                    {{ __("Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair (squeeze out excess water with a towel), leave it on for 7-10 minutes, and then follow with a 1-2 minute application of conditioner. Rinse with water.") }}
                                 </li>
                                 <li>
-                                    Always blow-dry your hair. Avoid going to bed with wet hair.
+                                    {{ __("Always blow-dry your hair. Avoid going to bed with wet hair.") }}
                                 </li>
                                 <li>
-                                    Use a hairdryer in the direction of the hair cuticles (following hair growth).
+                                    {{ __("Use a hairdryer in the direction of the hair cuticles (following hair growth).") }}
                                 </li>
                                 <li>
-                                    Remember to use heat protection before every blow-dry.
+                                    {{ __("Remember to use heat protection before every blow-dry.") }}
                                 </li>
                                 <li>
-                                    Oils and leave-in treatments are also recommended in home care.
+                                    {{ __("Oils and leave-in treatments are also recommended in home care.") }}
                                 </li>
                             </ul>
                         </x-asked-question>
@@ -720,31 +720,30 @@
                             </p>
                             <ul class="list-inside list-disc space-y-4">
                                 <li>
-                                    Choose a shampoo based on your scalp type. Wash only the roots, avoiding the length of the hair.
+                                    {{ __("Choose a shampoo based on your scalp type. Wash only the roots, avoiding the length of the hair.") }}
                                 </li>
                                 <li>
-                                    After each shampoo, apply conditioner for 1-2 minutes.
+                                    {{ __("After each shampoo, apply conditioner for 1-2 minutes.") }}
                                 </li>
                                 <li>
-                                    Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair (squeeze out excess water with a towel).
+                                    {{ __("Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair (squeeze out excess water with a towel).") }}
                                 </li>
                                 <li>
-                                    Leave the mask on for 7-10 minutes. After the mask, apply conditioner for 1-2 minutes, then rinse with water.
+                                    {{ __("Leave the mask on for 7-10 minutes. After the mask, apply conditioner for 1-2 minutes, then rinse with water.") }}
                                 </li>
                                 <li>
-                                    Always blow-dry your hair. Avoid going to bed with wet hair.
+                                    {{ __("Always blow-dry your hair. Avoid going to bed with wet hair.") }}
                                 </li>
                                 <li>
-                                    Dry your hair with a hairdryer following the direction of the hair cuticles (along the growth).
+                                    {{ __("Dry your hair with a hairdryer following the direction of the hair cuticles (along the growth).") }}
                                 </li>
                                 <li>
-                                    Don't forget to use heat protection before every blow-dry.
+                                    {{ __("Don't forget to use heat protection before every blow-dry.") }}
                                 </li>
                                 <li>
-                                    Oils and leave-in treatments are also recommended in home care.
+                                    {{ __("Oils and leave-in treatments are also recommended in home care.") }}
                                 </li>
                             </ul>
-                            
                         </x-asked-question>
 
                         <x-asked-question :question="__('How long can you wear afro braids, and how should you properly care for your hair during this procedure?')" class="space-y-4">
@@ -753,19 +752,19 @@
                             </p>
                             <ul class="list-inside list-disc space-y-4">
                                 <li>
-                                    Comb your hair before washing and before bedtime.
+                                    {{ __("Comb your hair before washing and before bedtime.") }}
                                 </li>
                                 <li>
-                                    Braid your hair into a loose braid at night.
+                                    {{ __("Braid your hair into a loose braid at night.") }}
                                 </li>
                                 <li>
-                                    Moisturize daily.
+                                    {{ __("Moisturize daily.") }}
                                 </li>
                                 <li>
-                                    Wash with care (Avoid rubbing the hair and scalp; apply conditioner or mask only to the length).
+                                    {{ __("Wash with care (Avoid rubbing the hair and scalp; apply conditioner or mask only to the length).") }}
                                 </li>
                                 <li>
-                                    Gentle combing: Comb your hair carefully, starting from the ends to avoid pulling and breakage.
+                                    {{ __("Gentle combing: Comb your hair carefully, starting from the ends to avoid pulling and breakage.") }}
                                 </li>
                             </ul>
                         </x-asked-question>

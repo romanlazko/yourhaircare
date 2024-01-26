@@ -1,16 +1,4 @@
 {
-  "public/fonts/BeautiqueDisplay-Black.otf": {
-    "file": "assets/BeautiqueDisplay-Black-5UHNu73I.otf",
-    "src": "public/fonts/BeautiqueDisplay-Black.otf"
-  },
-  "public/fonts/BeautiqueDisplay-Light.otf": {
-    "file": "assets/BeautiqueDisplay-Light-JWcmHOwN.otf",
-    "src": "public/fonts/BeautiqueDisplay-Light.otf"
-  },
-  "public/fonts/BeautiqueDisplay-Medium.otf": {
-    "file": "assets/BeautiqueDisplay-Medium-ZctrqNnL.otf",
-    "src": "public/fonts/BeautiqueDisplay-Medium.otf"
-  },
   "public/fonts/YsabeauInfant-Bold.ttf": {
     "file": "assets/YsabeauInfant-Bold-mZiyM-n7.ttf",
     "src": "public/fonts/YsabeauInfant-Bold.ttf"
@@ -28,7 +16,7 @@
     "src": "public/img/gold3.avif"
   },
   "resources/css/app.css": {
-    "file": "assets/app-X740bEFf.css",
+    "file": "assets/app-VJ2RgxVZ.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
