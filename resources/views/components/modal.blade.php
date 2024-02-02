@@ -89,9 +89,9 @@ $maxWidth = [
         <div class="w-full h-1" style="background: url('/img/gold3.avif'); background-size: cover"></div>
 
         <div class="flex-1 overflow-x-hidden overflow-y-auto p-4 text-[#FFFDD8] font-[YsabeauInfant-Regular] space-y-8 py-8">
-            <h2 class="text-2xl md:text-4xl uppercase font-[Cormorant] text-gold gold-animation">
+            <span class="text-2xl md:text-4xl uppercase font-[Cormorant] text-gold gold-animation">
                 {{ $title }}
-            </h2>
+            </span>
             <p class="text-gold">
                 {{ $time }}
             </p>

@@ -2,24 +2,25 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}" style="scroll-behavior: smooth;">
     <head>
         <meta charset="utf-8">
+        <meta name="title" content="Your Hair Care, kadeřnictví, salon péče o vlasy">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta name="description" content="Vítejte v našem studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám.">
         <meta name="keywords" content="hair care, kadeřnictví, salon péče o vlasy, beauty, hair studio">
         <meta name="robots" content="index, follow">
         <meta name="author" content="Your Hair Care">
 
         <!-- Open Graph Meta Tags -->
         <meta property="og:title" content="Your Hair Care, kadeřnictví, salon péče o vlasy">
-        <meta property="og:description" content="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta property="og:description" content="Vítejte v našem studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám.">
         <meta property="og:image" content="https://your-haircare.com/img/logo.jpg">
         <meta property="og:site_name" content="Your Hair Care">
-        <meta property="og:locale" content="{{ app()->getLocale() }}">
+        <meta property="og:locale" content="{{ app()->getLocale() == 'en' ? 'en' : 'cs' }}">
         <meta property="og:url" content="https://your-haircare.com">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="Your Hair Care, kadeřnictví, salon péče o vlasy">
-        <meta name="twitter:description" content="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta name="twitter:description" content="Vítejte v našem studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám.">
         <meta name="twitter:image" content="https://your-haircare.com/img/photos/logo.png">
 
         <!-- Favicon -->
@@ -29,7 +30,7 @@
         <!-- Canonical URL -->
         <link rel="canonical" href="https://your-haircare.com">
 
-        <title>Your Hair Care</title>
+        <title>Your Hair Care, kadeřnictví, salon péče o vlasy</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -51,13 +52,13 @@
 
             <x-slot name="photos">
                 <div class="w-full ">
-                    <img class="w-full object-contain" src="img/photos/nanoplastics-before.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/nanoplastics-before.png" alt="nanoplastics-before">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
                 <div class="w-full">
-                    <img class="w-full object-contain" src="img/photos/nanoplastics-after.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/nanoplastics-after.png" alt="nanoplastics-after">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -84,13 +85,13 @@
 
             <x-slot name="photos">
                 <div class="w-full ">
-                    <img class="w-full object-contain" src="img/photos/keratin-before.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/keratin-before.png" alt="keratin-before">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
                 <div class="w-full">
-                    <img class="w-full object-contain" src="img/photos/keratin-after.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/keratin-after.png" alt="keratin-after">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -117,13 +118,13 @@
 
             <x-slot name="photos">
                 <div class="w-full ">
-                    <img class="w-full object-contain" src="img/photos/afrohair-before.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/afrohair-before.png" alt="afrohair-before">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
                 <div class="w-full">
-                    <img class="w-full object-contain" src="img/photos/afrohair-after.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/afrohair-after.png" alt="afrohair-after">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -150,13 +151,13 @@
 
             <x-slot name="photos">
                 <div class="w-full ">
-                    <img class="w-full object-contain" src="img/photos/botox-before.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/botox-before.png" alt="botox-before">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
                 <div class="w-full">
-                    <img class="w-full object-contain" src="img/photos/botox-after.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/botox-after.png" alt="botox-after">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -183,13 +184,13 @@
 
             <x-slot name="photos">
                 <div class="w-full ">
-                    <img class="w-full object-contain" src="img/photos/coldrestoration-before.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/coldrestoration-before.png" alt="coldrestoration-before">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
                 <div class="w-full">
-                    <img class="w-full object-contain" src="img/photos/coldrestoration-after.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/coldrestoration-after.png" alt="coldrestoration-after">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -232,13 +233,13 @@
 
             <x-slot name="photos">
                 <div class="w-full ">
-                    <img class="w-full object-contain" src="img/photos/hairpolishing-before.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/hairpolishing-before.png" alt="hairpolishing-before">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
                 <div class="w-full">
-                    <img class="w-full object-contain" src="img/photos/hairpolishing-after.png" alt="">
+                    <img class="w-full object-contain" src="img/photos/hairpolishing-after.png" alt="hairpolishing-after">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -332,7 +333,7 @@
                 <li><span class="border border-[#C9A43D] h-max"></span></li>
 
                 <li>
-                    <a href="https://www.instagram.com/hair_care_cz" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl" target="_blank">
+                    <a href="https://instagram.com/hair_care_cz" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl" target="_blank">
                         @yourhaircare_cz
                     </a>
                 </li>
@@ -367,7 +368,7 @@
                     </div>
                 </div>
 
-                <a href="https://www.instagram.com/hair_care_cz" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl" target="_blank">
+                <a href="https://instagram.com/hair_care_cz" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl" target="_blank">
                     @yourhaircare_cz
                 </a>
             </div>
@@ -388,19 +389,19 @@
                     <div class="w-full flex justify-center z-20 overflow-hidden" x-data="{selected: 0}" x-init="setInterval(() => selected = (selected + 1) % 3, 5000)">
                         <img
                             src="img/photos/main_photo2.png"
-                            alt=""
+                            alt="your hair care 2"
                             class="transition-transform ease-in-out duration-1000 transform w-full"
                             :class="{ 'translate-x-[10%] scale-[0.70] z-0': selected === 0, 'translate-x-[100%] z-20': selected === 1, 'translate-x-[190%] scale-[0.70] z-20': selected === 2 }"
                         />
                         <img
                             src="img/photos/main_photo1.png"
-                            alt=""
+                            alt="your hair care 1"
                             class="transition-transform ease-in-out duration-1000 transform w-full"
                             :class="{ 'translate-x-0 z-20': selected === 0, 'translate-x-[90%] scale-[0.70] z-20': selected === 1, 'translate-x-[-90%] scale-[0.70] z-0': selected === 2 }"
                         />
                         <img
                             src="img/photos/main_photo3.png"
-                            alt=""
+                            alt="your hair care 3"
                             class="transition-transform ease-in-out duration-1000 transform w-full"
                             :class="{ 'translate-x-[-10%] scale-[0.70] z-0': selected === 0, 'translate-x-[-190%] scale-[0.70] z-0': selected === 1, 'translate-x-[-100%] z-0': selected === 2 }"
                         />
@@ -843,7 +844,7 @@
                         </div>
                     </div>
                     <div class="w-full text-center">
-                        <a href="https://www.instagram.com/hair_care_cz" class="uppercase text-xl hover-gold-animation m-auto text-gold" target="_blank">
+                        <a href="https://instagram.com/hair_care_cz" class="uppercase text-xl hover-gold-animation m-auto text-gold" target="_blank">
                             {{ __("see more review") }}
                         </a>
                     </div>
@@ -862,7 +863,7 @@
                 <x-reservation-button/>>
                 
                 <div class="flex">
-                    <a href="https://www.instagram.com/hair_care_cz" class="text-3xl font-[Cormorant] hover-gold-animation m-auto text-gold" target="_blank">
+                    <a href="https://instagram.com/hair_care_cz" class="text-3xl font-[Cormorant] hover-gold-animation m-auto text-gold" target="_blank">
                         <i class="fa-brands fa-instagram"></i>
                         yourhaircare_cz
                     </a>
