@@ -1,5 +1,7 @@
 Options +SymLinksIfOwnerMatch
 RewriteEngine On
+RewriteCond %{HTTP_HOST} !^your-haircare.com$
+RewriteRule ^(.*)$ https://your-haircare.com/$1 [R=301,L]
 
 # Rewrite "public" to the URL if it's not a file or directory
 RewriteCond %{REQUEST_FILENAME} !-d

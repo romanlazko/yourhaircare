@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" style="scroll-behavior: smooth;">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) == 'en' ? 'en' : 'cs' }}" style="scroll-behavior: smooth;">
     <head>
         <meta charset="utf-8">
         <meta name="title" content="Your Hair Care, kadeřnictví, salon péče o vlasy">
@@ -14,7 +14,7 @@
         <meta property="og:description" content="Vítejte v našem studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám.">
         <meta property="og:image" content="https://your-haircare.com/img/logo.jpg">
         <meta property="og:site_name" content="Your Hair Care">
-        <meta property="og:locale" content="{{ app()->getLocale() == 'en' ? 'en' : 'cs' }}">
+        <meta property="og:locale" content="{{ str_replace('_', '-', app()->getLocale()) == 'en' ? 'en' : 'cs' }}">
         <meta property="og:url" content="https://your-haircare.com">
 
         <!-- Twitter Meta Tags -->
