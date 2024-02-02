@@ -3,7 +3,11 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <meta title="Your Hair Care, kadeřnictví, salon péče o vlasy">
+        <meta description="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta og:title="Your Hair Care, kadeřnictví, salon péče o vlasy">
+        <meta og:description="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta og:image="https://your-haircare.com/img/photos/logo.png">
         <title>Your Hair Care</title>
 
         <!-- Fonts -->
@@ -25,14 +29,14 @@
             </x-slot>
 
             <x-slot name="photos">
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full ">
+                    <img class="w-full object-contain" src="img/photos/nanoplastics-before.png" alt="">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full">
+                    <img class="w-full object-contain" src="img/photos/nanoplastics-after.png" alt="">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -40,7 +44,7 @@
             </x-slot>
 
             <x-slot name="description">
-                {{ __("An innovative technique for straightening curls. An acid composition is used to achieve flawless straightening, even for Afro hair. Perfect for those who want to give their hair long-lasting smoothness and silkiness.") }}
+                {{ __("An acid composition is used to straighten curls, even for Afro hair, achieving long-lasting smoothness and silkiness.") }}
             </x-slot>
 
             <x-slot name="price">
@@ -58,14 +62,14 @@
             </x-slot>
 
             <x-slot name="photos">
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full ">
+                    <img class="w-full object-contain" src="img/photos/keratin-before.png" alt="">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full">
+                    <img class="w-full object-contain" src="img/photos/keratin-after.png" alt="">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -73,7 +77,7 @@
             </x-slot>
 
             <x-slot name="description">
-                {{ __("A hair straightening procedure based on the application of a special composition with keratin protein, which helps straighten the hair, reduce frizz, and provide a long-lasting effect. Suitable for those dreaming of straight, smooth hair.") }}
+                {{ __("A keratin-based hair straightening procedure that reduces frizz and provides long-lasting straight and smooth hair.") }}
             </x-slot>
 
             <x-slot name="price">
@@ -91,14 +95,14 @@
             </x-slot>
 
             <x-slot name="photos">
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full ">
+                    <img class="w-full object-contain" src="img/photos/afrohair-before.png" alt="">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full">
+                    <img class="w-full object-contain" src="img/photos/afrohair-after.png" alt="">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -106,7 +110,7 @@
             </x-slot>
 
             <x-slot name="description">
-                {{ __("This is a safe extension technique that uses a special material identical to natural hair. Attachment is done on a mini braid, weaving donor hair strands into the natural ones. An ideal option without tangles and glue.") }}
+                {{ __("This is a safe hair extension technique that uses a special material, identical to natural hair, to attach donor hair strands onto mini braids. It’s an ideal option that eliminates tangles and the need for glue.") }}
             </x-slot>
 
             <x-slot name="price">
@@ -124,14 +128,14 @@
             </x-slot>
 
             <x-slot name="photos">
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full ">
+                    <img class="w-full object-contain" src="img/photos/botox-before.png" alt="">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full">
+                    <img class="w-full object-contain" src="img/photos/botox-after.png" alt="">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -139,7 +143,7 @@
             </x-slot>
 
             <x-slot name="description">
-                {{ __("This treatment involves saturating the upper cuticular layer of the hair with active components to restore its structure and add shine. This service is suitable for those with dry, brittle, or damaged hair. Ideal for combining with colouring and care.") }}
+                {{ __("This treatment involves saturating the hair’s upper cuticular layer with active components to restore structure and add shine. It is ideal for those with dry, brittle, or damaged hair and can be combined with coloring services.") }}
             </x-slot>
 
             <x-slot name="price">
@@ -157,14 +161,14 @@
             </x-slot>
 
             <x-slot name="photos">
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full ">
+                    <img class="w-full object-contain" src="img/photos/coldrestoration-before.png" alt="">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full">
+                    <img class="w-full object-contain" src="img/photos/coldrestoration-after.png" alt="">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -173,7 +177,7 @@
 
             <x-slot name="description">
                 <p>
-                    {{ __("A therapeutic procedure for dry, dehydrated, and damaged hair. It includes deep-penetrating components to give the hair:") }}
+                    {{ __("This is the treatment for dry, dehydrated, and damaged hair. It contains deep-penetrating ingredients that provide the hair with elasticity, strength, and softness. The treatment revitalizes the hair, making it lively and healthy without altering its natural structure. Unlike other treatments, it does not straighten or make the hair glossy.") }}
                 </p>
                 <ul class="list-disc list-inside">
                     <li>
@@ -206,14 +210,14 @@
             </x-slot>
 
             <x-slot name="photos">
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full ">
+                    <img class="w-full object-contain" src="img/photos/hairpolishing-before.png" alt="">
                     <p>
                         {{ __("before") }}
                     </p>
                 </div>
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
+                <div class="w-full">
+                    <img class="w-full object-contain" src="img/photos/hairpolishing-after.png" alt="">
                     <p>
                         {{ __("after") }}
                     </p>
@@ -239,18 +243,6 @@
             </x-slot>
 
             <x-slot name="photos">
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
-                    <p>
-                        {{ __("before") }}
-                    </p>
-                </div>
-                <div>
-                    <img class="" src="img/photos/main_photo1.png" alt="">
-                    <p>
-                        {{ __("after") }}
-                    </p>
-                </div>
             </x-slot>
 
             <x-slot name="description">
@@ -298,7 +290,7 @@
                 
                 <li>
                     <a href="https://webapp.buukan.com/5" class="cursor-pointer hover:underline">
-                        {{ __("Reservation system") }}
+                        {{ __("Reservation") }}
                     </a>
                 </li>
                 
@@ -406,13 +398,13 @@
                         </x-h2>
                         <div class="w-full space-y-6 text-[#FFFDD8] text-[20px] font-[YsabeauInfant-Regular]">
                             <p>
-                                {{ __("Welcome to a cozy hair care studio! My approach to hair services is not only technical skill, but also attention to your individual needs. Join a beauty community where your satisfaction is my top priority.") }}
+                                {{ __("Welcome to our cozy hair care studio! Our approach to hair services is focused on technical skill and attention to your individual needs. We are committed to creating a beauty community where your satisfaction is our top priority.") }}
                             </p>
                             <p>
-                                {{ __("Trust me to care for the health and beauty of your hair, and together we'll make your hair look amazing.") }}
+                                {{ __("You can trust us to care for the health and beauty of your hair with the utmost care and professionalism. We believe that together, we can create amazing and beautiful hair that you'll love.") }}
                             </p>
                             <p>
-                                {{ __("I look forward to seeing you in the studio to create healthy and beautiful hair!") }}
+                                {{ __("We look forward to welcoming you to our studio and helping you achieve healthy and beautiful hair!") }}
                             </p>
                         </div>
 
@@ -654,90 +646,90 @@
                         {{ __("frequently asked questions") }}
                     </x-h2>
                     <div class="space-y-12">
-                        <x-asked-question :question="__('How to avoid split ends?')">
+                        <x-asked-question :question="__('What can I do to prevent split ends?')">
                             <p class="w-full">
-                                {{ __("Do not hesitate to trim what cannot be saved in time and practice mdart at-home care for your hair type.") }}
+                                {{ __("To prevent split ends, it's important to trim your hair regularly and practice good hair care at home. Here are some tips:") }}
                             </p>
                             <p>
-                                {{ __("-Apply moisturizing hair masks.") }}
+                                {{ __("-Use moisturizing hair masks to keep your hair healthy and nourished.") }}
                             </p>
                             <p>
-                                {{ __("-Use heat protectants before using flat irons and hair dryers to prevent split ends.") }}
+                                {{ __("-Always use a heat protectant before using hot styling tools like flat irons and hair dryers to prevent damaging your hair and causing split ends.") }}
                             </p>
                         </x-asked-question>
 
                         <x-asked-question :question="__('How to maintain the color of dyed hair?')">
                             <p class="w-full">
-                                {{ __("Use shampoos and conditioners designed for colored hair, avoid exposure to strong ultraviolet rays, hot water, and frequent use of heat styling tools.") }}
+                                {{ __("For maintaining the color of dyed hair, use shampoos and conditioners specifically designed for color-treated hair. Avoid exposure to strong ultraviolet rays, hot water, and frequent use of heat-styling tools.") }}
                             </p>
                         </x-asked-question>
 
                         <x-asked-question :question="__('How do I maintain the color of my colored hair?')">
                             <p class="w-full">
-                                {{ __("Use shampoos and conditioners for color-treated hair, avoid heavy UV exposure, hot water and frequent use of heat tools.") }}
+                                {{ __("To keep your hair color from fading, use shampoos and conditioners specifically designed for colored hair. Also, protect your hair from excessive UV exposure, hot water, and heat styling tools.") }}
                             </p>
                         </x-asked-question>
                         
                         <x-asked-question :question="__('How to determine which is better for me: keratin hair straightening or hair botox?')" class="space-y-4">
                             <p class="w-full">
-                                {{ __("The choice between keratin hair straightening and hair botox depends on your individual needs and the characteristics of your hair.") }}
+                                {{ __("The choice between keratin hair straightening and hair botox depends on your unique requirements and hair characteristics.") }}
                             </p>
                             <p class="w-full">
-                                {{ __("If you want to smooth your hair, eliminate frizz, and add shine, hair botox might be a more suitable option. This procedure improves hair texture, making it more manageable and smooth. It helps prevent split ends and breakage while promoting hair length growth.") }}
+                                {{ __("Hair botox is an ideal choice if you want to smoothen your hair, eliminate frizz, and add shine. This procedure enhances hair texture, making it more manageable and smooth. It also helps prevent split ends and breakage while promoting hair length growth. On the other hand, if your primary goal is to straighten your curly or wavy hair, then keratin hair straightening is the right option.") }}
                             </p>
                             <p class="w-full">
-                                {{ __("If your main goal is to straighten curly or wavy hair, then keratin hair straightening is suitable for you. However, it also provides smoothness, softness, and a glossy shine to the hair.") }}
+                                {{ __("Apart from straightening, it also provides softness, smoothness, and a glossy shine to your hair.") }}
                             </p>
                             <p class="w-full">
-                                {{ __("The final decision is made on-site after a visual inspection, hair diagnosis, and a conversation with you.") }}
+                                {{ __("However, the final decision will be made on-site after a visual inspection, hair diagnosis, and a discussion with you.") }}
                             </p>
                         </x-asked-question>
 
                         <x-asked-question :question="__('How long does hair botox last, and what measures can be taken to maintain its effect on the hair?')" class="space-y-4">
                             <p class="w-full">
-                                {{ __("Hair botox typically lasts on the hair for an average of up to 3 months, depending on individual hair characteristics and care. To maintain the effect of hair botox, it is recommended to follow these steps:") }}
+                                {{ __("Hair botox usually lasts on the hair for an average of up to 3 months. However, the duration may vary based on individual hair characteristics and care. To keep the effects of hair botox intact, it is recommended to follow these steps:") }}
                             </p>
                             <ul class="list-inside list-disc space-y-4">
                                 <li>
-                                    {{ __("Choose a shampoo suitable for your scalp type. Only wash the roots, avoiding the length of the hair.") }}
+                                    {{ __("Choose a suitable shampoo that matches your scalp type. Apply it only to the roots and avoid washing the length of your hair.") }}
                                 </li>
                                 <li>
-                                    {{ __("After each shampoo, apply conditioner for 1-2 minutes.") }}
+                                    {{ __("After every shampoo, apply a conditioner for 1-2 minutes.") }}
                                 </li>
                                 <li>
-                                    {{ __("Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair (squeeze out excess water with a towel), leave it on for 7-10 minutes, and then follow with a 1-2 minute application of conditioner. Rinse with water.") }}
+                                    {{ __("Use a hair mask once or twice a week, depending on your hair washes or in-between. Apply the mask on damp hair, leave it on for 7-10 minutes, and then follow up with a 1-2 minute application of conditioner. Rinse with water.") }}
                                 </li>
                                 <li>
-                                    {{ __("Always blow-dry your hair. Avoid going to bed with wet hair.") }}
+                                    {{ __("Always blow-dry your hair and avoid going to bed with wet hair.") }}
                                 </li>
                                 <li>
-                                    {{ __("Use a hairdryer in the direction of the hair cuticles (following hair growth).") }}
+                                    {{ __("Use a hairdryer in the direction of the hair cuticles, following the pattern of hair growth.") }}
                                 </li>
                                 <li>
                                     {{ __("Remember to use heat protection before every blow-dry.") }}
                                 </li>
                                 <li>
-                                    {{ __("Oils and leave-in treatments are also recommended in home care.") }}
+                                    {{ __("In-home care, oils, and leave-in treatments are also recommended.") }}
                                 </li>
                             </ul>
                         </x-asked-question>
 
                         <x-asked-question :question="__('How long does keratin hair straightening last, and what measures can be taken to maintain its effect?')" class="space-y-4">
                             <p class="w-full">
-                                {{ __("The effect typically lasts for 3-5 months, depending on hair type and care conditions. To maintain it and extend the duration of the effect, it is recommended to follow these guidelines:") }}
+                                {{ __("The effect of the treatment usually lasts for 3-5 months, depending on the type of hair and how it is taken care of. To maintain the effect and extend its duration, it is recommended that you follow these guidelines:") }}
                             </p>
                             <ul class="list-inside list-disc space-y-4">
                                 <li>
-                                    {{ __("Choose a shampoo based on your scalp type. Wash only the roots, avoiding the length of the hair.") }}
+                                    {{ __("Choose a shampoo based on your scalp type. Only wash the roots and avoid the length of the hair.") }}
                                 </li>
                                 <li>
                                     {{ __("After each shampoo, apply conditioner for 1-2 minutes.") }}
                                 </li>
                                 <li>
-                                    {{ __("Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair (squeeze out excess water with a towel).") }}
+                                    {{ __("Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair and squeeze out excess water with a towel.") }}
                                 </li>
                                 <li>
-                                    {{ __("Leave the mask on for 7-10 minutes. After the mask, apply conditioner for 1-2 minutes, then rinse with water.") }}
+                                    {{ __("Leave the mask on for 7-10 minutes. After the mask, apply conditioner for 1-2 minutes and then rinse with water.") }}
                                 </li>
                                 <li>
                                     {{ __("Always blow-dry your hair. Avoid going to bed with wet hair.") }}
@@ -749,30 +741,30 @@
                                     {{ __("Don't forget to use heat protection before every blow-dry.") }}
                                 </li>
                                 <li>
-                                    {{ __("Oils and leave-in treatments are also recommended in home care.") }}
+                                    {{ __("Oils and leave-in treatments are also recommended for home care.") }}
                                 </li>
                             </ul>
                         </x-asked-question>
 
                         <x-asked-question :question="__('How long can you wear afro braids, and how should you properly care for your hair during this procedure?')" class="space-y-4">
                             <p class="w-full">
-                                {{ __("Afro braids can be worn for 2-3 months. To care for your hair during this period, follow these recommendations:") }}
+                                {{ __("Afro braids are a great hairstyle that can be worn for 2-3 months. However, it is important to take care of your hair during this period to keep it healthy. Here are some tips to follow:") }}
                             </p>
                             <ul class="list-inside list-disc space-y-4">
                                 <li>
-                                    {{ __("Comb your hair before washing and before bedtime.") }}
+                                    {{ __("Before washing your hair or going to bed, make sure to comb it gently to prevent tangles.") }}
                                 </li>
                                 <li>
-                                    {{ __("Braid your hair into a loose braid at night.") }}
+                                    {{ __("At night, braid your hair loosely to avoid pulling on your scalp while you sleep.") }}
                                 </li>
                                 <li>
-                                    {{ __("Moisturize daily.") }}
+                                    {{ __("Moisturize your hair daily to keep it from becoming dry and brittle.") }}
                                 </li>
                                 <li>
-                                    {{ __("Wash with care (Avoid rubbing the hair and scalp; apply conditioner or mask only to the length).") }}
+                                    {{ __("When washing your hair, be gentle and avoid rubbing your scalp too hard. Apply conditioner or hair mask only to the length of the hair.") }}
                                 </li>
                                 <li>
-                                    {{ __("Gentle combing: Comb your hair carefully, starting from the ends to avoid pulling and breakage.") }}
+                                    {{ __("To avoid breakage, comb your hair carefully, starting from the ends and working your way up to the roots.") }}
                                 </li>
                             </ul>
                         </x-asked-question>

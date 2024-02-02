@@ -95,7 +95,7 @@ $maxWidth = [
             <p class="text-gold">
                 {{ $time }}
             </p>
-            <div class="w-full flex space-x-3">
+            <div class="w-full flex space-x-3 justify-between">
                 {{ $photos }}
             </div>
             <p class="">
