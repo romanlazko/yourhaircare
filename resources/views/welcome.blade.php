@@ -505,7 +505,7 @@
 
                     {{-- afro_hair_extensions --}}
                     <div class="w-full flex justify-start">
-                        <ul class="text-[#FFFDD8] text-[20px] space-y-6 w-[580px] md:w-min">
+                        <ul class="text-[#FFFDD8] text-[20px] space-y-6 w-[580px] md:w-[700px]">
                             <li>
                                 <x-h2>
                                     {{ __("afro hair extensions") }}
@@ -561,7 +561,7 @@
 
                     {{-- cold_restoration --}}
                     <div class="w-full flex justify-start">
-                        <ul class="text-[#FFFDD8] text-[20px] space-y-6 w-[580px] md:w-min">
+                        <ul class="text-[#FFFDD8] text-[20px] space-y-6 w-[580px] md:w-[800px]">
                             <li>
                                 <x-h2>
                                     {{ __("cold restoration") }}
@@ -629,7 +629,7 @@
 
                     {{-- trimming_spa --}}
                     <div class="w-full flex justify-start">
-                        <ul class="text-[#FFFDD8] text-[20px] space-y-6 w-[580px] md:w-min">
+                        <ul class="text-[#FFFDD8] text-[20px] space-y-6 w-[580px] md:w-[700px]">
                             <li>
                                 <x-h2>
                                     {{ __("trimming + spa") }}
