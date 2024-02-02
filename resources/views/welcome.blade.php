@@ -3,14 +3,32 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta title="Your Hair Care, kadeřnictví, salon péče o vlasy">
-        <meta description="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta name="description" content="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta name="keywords" content="hair care, kadeřnictví, salon péče o vlasy, beauty, hair studio">
+        <meta name="robots" content="index, follow">
+        <meta name="author" content="Your Hair Care">
+
+        <!-- Open Graph Meta Tags -->
         <meta property="og:title" content="Your Hair Care, kadeřnictví, salon péče o vlasy">
         <meta property="og:description" content="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
-        <meta property="og:image" content="https://your-haircare.com/img/photos/logo.png">
+        <meta property="og:image" content="https://your-haircare.com/img/logo.jpg">
         <meta property="og:site_name" content="Your Hair Care">
         <meta property="og:locale" content="{{ app()->getLocale() }}">
         <meta property="og:url" content="https://your-haircare.com">
+
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Your Hair Care, kadeřnictví, salon péče o vlasy">
+        <meta name="twitter:description" content="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta name="twitter:image" content="https://your-haircare.com/img/photos/logo.png">
+
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" sizes="32x32" href="https://your-haircare.com/img/logo.jpg">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://your-haircare.com/img/logo.jpg">
+
+        <!-- Canonical URL -->
+        <link rel="canonical" href="https://your-haircare.com">
+
         <title>Your Hair Care</title>
 
         <!-- Fonts -->
