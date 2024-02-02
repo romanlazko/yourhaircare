@@ -292,7 +292,7 @@
                 <li><span class="border border-[#C9A43D] h-max"></span></li>
                 
                 <li>
-                    <a href="https://webapp.buukan.com/5" class="cursor-pointer hover:underline">
+                    <a href="https://webapp.buukan.com/5" class="cursor-pointer hover:underline" target="_blank">
                         {{ __("Reservation") }}
                     </a>
                 </li>
@@ -314,7 +314,7 @@
                 <li><span class="border border-[#C9A43D] h-max"></span></li>
 
                 <li>
-                    <a href="" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl">
+                    <a href="https://www.instagram.com/hair_care_cz" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl" target="_blank">
                         @yourhaircare_cz
                     </a>
                 </li>
@@ -335,7 +335,7 @@
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="#services_prices">{{ __("Services & prices") }}</a>
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="#frequently_asked_questions">{{ __("Questions") }}</a>
                             <a class="block w-full p-2 hover:text-[#fad56e]" href="#testimonial">{{ __("Testimonial") }}</a>
-                            <a class="block w-full p-2 hover:text-[#fad56e]" href="https://webapp.buukan.com/5">{{ __("Reservation system") }}</a>
+                            <a class="block w-full p-2 hover:text-[#fad56e]" href="https://webapp.buukan.com/5" target="_blank">{{ __("Reservation system") }}</a>
                             @if (app()->getLocale() == 'en')
                                 <a class="block w-full p-2 hover:text-[#fad56e]" href="{{ route('language', 'cz') }}">
                                     CZ
@@ -349,7 +349,7 @@
                     </div>
                 </div>
 
-                <a href="" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl">
+                <a href="https://www.instagram.com/hair_care_cz" class="inline-block cursor-pointer font-[Cormorant] text-[#001101] text-3xl" target="_blank">
                     @yourhaircare_cz
                 </a>
             </div>
@@ -825,7 +825,7 @@
                         </div>
                     </div>
                     <div class="w-full text-center">
-                        <a href="" class="uppercase text-xl hover-gold-animation m-auto text-gold">
+                        <a href="https://www.instagram.com/hair_care_cz" class="uppercase text-xl hover-gold-animation m-auto text-gold" target="_blank">
                             {{ __("see more review") }}
                         </a>
                     </div>
@@ -844,7 +844,7 @@
                 <x-reservation-button/>>
                 
                 <div class="flex">
-                    <a href="" class="text-3xl font-[Cormorant] hover-gold-animation m-auto text-gold">
+                    <a href="https://www.instagram.com/hair_care_cz" class="text-3xl font-[Cormorant] hover-gold-animation m-auto text-gold" target="_blank">
                         <i class="fa-brands fa-instagram"></i>
                         yourhaircare_cz
                     </a>
