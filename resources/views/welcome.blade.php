@@ -433,7 +433,7 @@
                         <x-reservation-button/>
                     </div>
                     <div class="w-full md:w-1/2">
-                        <img src="img/photos/about_us.png" alt="" class="w-full float-right">
+                        <img src="img/photos/about_us.png" alt="about us" class="w-full float-right">
                     </div>
                 </div>
             </section>
