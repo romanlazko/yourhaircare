@@ -1,133 +1,241 @@
 {
-    "About us": "O nás",
-    "Services & prices": "Služby a ceny",
-    "Questions": "Otázky",
-    "Testimonial": "Reference",
-    "Reservation": "Rezervace",
+    "About us":
+    "O nás",
+    "Services & prices":
+    "Služby a ceny",
+    "Questions":
+    "Otázky",
+    "Testimonial":
+    "Reference",
+    "Reservation":
+    "Rezervace",
 
-    "the invitation": "pozvání",
-    "to get to know your best hair": "seznamte se s vašimi nejlepšími vlasy",
+    "the invitation":
+    "pozvání",
+    "to get to know your best hair":
+    "seznamte se s vašimi nejlepšími vlasy",
 
-    "about us": "o nás",
-    "Welcome to our cozy hair care studio! Our approach to hair services is focused on technical skill and attention to your individual needs. We are committed to creating a beauty community where your satisfaction is our top priority.": "Vítejte v útulné studiu péče o vlasy! Můj přístup k úpravám vlasů spočívá nejen ve technické dovednosti, ale také v pozornosti k vašim individuálním potřebám. Připojte se k komunitě krásy, kde je vaše spokojenost mé nejvyšší priority.",
-    "You can trust us to care for the health and beauty of your hair with the utmost care and professionalism. We believe that together, we can create amazing and beautiful hair that you'll love.": "Mějte důvěru, že se postarám o zdraví a krásu vašich vlasů a společně vytvoříme úžasný vzhled vašich vlasů.",
-    "We look forward to welcoming you to our studio and helping you achieve healthy and beautiful hair!": "Těším se na setkání s vámi ve studiu, abychom vytvořili zdravé a krásné vlasy!",
+    "about us":
+    "o nás",
+    "Welcome to our cozy hair care studio! Our approach to hair services is focused on technical skill and attention to your individual needs. We are committed to creating a beauty community where your satisfaction is our top priority.":
+    "Vítejte v útulné studiu péče o vlasy! Můj přístup k úpravám vlasů spočívá nejen ve technické dovednosti, ale také v pozornosti k vašim individuálním potřebám. Připojte se k komunitě krásy, kde je vaše spokojenost mé nejvyšší priority.",
+    "You can trust us to care for the health and beauty of your hair with the utmost care and professionalism. We believe that together, we can create amazing and beautiful hair that you'll love.":
+    "Mějte důvěru, že se postarám o zdraví a krásu vašich vlasů a společně vytvoříme úžasný vzhled vašich vlasů.",
+    "We look forward to welcoming you to our studio and helping you achieve healthy and beautiful hair!":
+    "Těším se na setkání s vámi ve studiu, abychom vytvořili zdravé a krásné vlasy!",
 
-    "meet the master and get a gift": "Poznejte mistra a získejte dárek",
-    "10% on your first procedure": "10% sleva na vaši první proceduru",
+    "meet the master and get a gift":
+    "Poznejte mistra a získejte dárek",
+    "10% on your first procedure":
+    "10% sleva na vaši první proceduru",
 
-    "nanoplastics": "nanoplastika",
-    "application of an acidic composition for perfect straightening, including afro hair": "složení kyseliny se používá k narovnání kudrlin, a to i u afro vlasů, čímž se dosáhne dlouhotrvající hladkosti a hedvábnosti.",
-    "providing smoothness and silkiness for a long-lasting effect": "poskytování hladkosti a hedvábnosti pro dlouhotrvající efekt",
+    "nanoplastics":
+    "nanoplastika",
+    "application of an acidic composition for perfect straightening, including afro hair":
+    "složení kyseliny se používá k narovnání kudrlin, a to i u afro vlasů, čímž se dosáhne dlouhotrvající hladkosti a hedvábnosti.",
+    "providing smoothness and silkiness for a long-lasting effect":
+    "poskytování hladkosti a hedvábnosti pro dlouhotrvající efekt",
 
-    "keratin": "Keratin",
-    "reduction of frizz and achievement of a long-lasting effect": "redukce krepatění a dosažení dlouhotrvajícího efektu",
-    "suitable for those dreaming of straight, smooth hair": "vhodné pro ty, kteří sní o rovných, hladkých vlasech",
-    
-    "afro hair extensions": "prodloužení vlasu metodou afro",
-    "safe extensions using material identical to natural hair": "bezpečné prodlužování vlasů s materiálem identickým s přírodními vlasy",
-    "attachment to mini-braids and integration of donor strands without tangles or glue": "připevnění k mini copánkům bez zamotání nebo lepidla",
-    
-    "botox": "Botox",
-    "adding shine and caring for dry, brittle, or damaged hair": "přidání lesku a péče o suché, lámavé nebo poškozené vlasy",
-    "ideal combination with coloring for comprehensive care": "ideální kombinace s barvením pro komplexní péči",
-    
-    "cold restoration": "Studena rekonstrukce (vlasova kůra)",
-    "designed for dry, dehydrated, and damaged hair": "určeno  pro suché, dehydrované a poškozené vlasy",
-    "contains deep-penetrating components": "obsahuje hluboko pronikající složky",
-    "provides hair with elasticity, strength, and softness": "poskytuje vlasům pružnost, sílu a jemnost",
-    "no straightening or glossy effect": "Žádné narovnání nebo lesklý efekt",
-    
-    "hair polishing": "Broušení vlasů",
-    "gentle removal of dry and damaged hair tips": "jemné odstranění suchých a poškozených konečků vlasů",
-    "suitable for all hair types": "vhodné pro všechny typy vlasů",
-    
-    "trimming + spa": "Stříhání + spa",
-    "trimming damaged tips with subsequent spa care": "stříhání poškozených konečků s následnou péčí v spa",
-    "optimal service for maintaining the health and beauty of hair": "optimální služba pro udržení zdraví a krásy vlasů",
-    
-    "see more...": "zobrazit více...",
+    "keratin":
+    "Keratin",
+    "reduction of frizz and achievement of a long-lasting effect":
+    "redukce krepatění a dosažení dlouhotrvajícího efektu",
+    "suitable for those dreaming of straight, smooth hair":
+    "vhodné pro ty, kteří sní o rovných, hladkých vlasech",
 
-    "frequently asked questions": "Často kladené otázky",
+    "afro hair extensions":
+    "prodloužení vlasu metodou afro",
+    "safe extensions using material identical to natural hair":
+    "bezpečné prodlužování vlasů s materiálem identickým s přírodními vlasy",
+    "attachment to mini-braids and integration of donor strands without tangles or glue":
+    "připevnění k mini copánkům bez zamotání nebo lepidla",
 
-    "What can I do to prevent split ends?": "Jak se vyhnout rozděleným konečkům?",
-    "To prevent split ends, it's important to trim your hair regularly and practice good hair care at home. Here are some tips:": "Abyste předešli roztřepeným konečkům, je důležité vlasy pravidelně zastřihovat a doma o ně správně pečovat. Zde je několik tipů",
-    "-Use moisturizing hair masks to keep your hair healthy and nourished.": "-Nanášejte hydratační masky na vlasy.",
-    "-Always use a heat protectant before using hot styling tools like flat irons and hair dryers to prevent damaging your hair and causing split ends.": "-Před použitím horkých stylingových nástrojů, jako jsou žehličky a fény, vždy použijte přípravek na ochranu před teplem, abyste zabránili poškození vlasů a roztřepení konečků.",
+    "botox":
+    "Botox",
+    "adding shine and caring for dry, brittle, or damaged hair":
+    "přidání lesku a péče o suché, lámavé nebo poškozené vlasy",
+    "ideal combination with coloring for comprehensive care":
+    "ideální kombinace s barvením pro komplexní péči",
 
-    "How to maintain the color of dyed hair?": "Jak udržovat barvu barvených vlasů?",
-    "For maintaining the color of dyed hair, use shampoos and conditioners specifically designed for color-treated hair. Avoid exposure to strong ultraviolet rays, hot water, and frequent use of heat-styling tools.": "Používejte šampony a kondicionéry určené pro barvené vlasy, vyhýbejte se silnému UV záření, horké vodě a častému používání teplých nástrojů na úpravu vlasů.",
+    "cold restoration":
+    "Studena rekonstrukce (vlasova kůra)",
+    "designed for dry, dehydrated, and damaged hair":
+    "určeno  pro suché, dehydrované a poškozené vlasy",
+    "contains deep-penetrating components":
+    "obsahuje hluboko pronikající složky",
+    "provides hair with elasticity, strength, and softness":
+    "poskytuje vlasům pružnost, sílu a jemnost",
+    "no straightening or glossy effect":
+    "Žádné narovnání nebo lesklý efekt",
 
-    "How do I maintain the color of my colored hair?": "Jak udržovat barvu mé barevné vlasové úpravy?",
-    "To keep your hair color from fading, use shampoos and conditioners specifically designed for colored hair. Also, protect your hair from excessive UV exposure, hot water, and heat styling tools.": "-Pro udržení barvy barvených vlasů používejte šampony a kondicionéry určené speciálně pro barvené vlasy. Nevystavujte vlasy silnému ultrafialovému záření, horké vodě a častému používání tepelných stylingových nástrojů.",
+    "hair polishing":
+    "Broušení vlasů",
+    "gentle removal of dry and damaged hair tips":
+    "jemné odstranění suchých a poškozených konečků vlasů",
+    "suitable for all hair types":
+    "vhodné pro všechny typy vlasů",
 
-    "How to determine which is better for me: keratin hair straightening or hair botox?": "Jak zjistit, co je pro mě lepší: keratinové vyrovnání vlasů nebo botox pro vlasy?",
-    "The choice between keratin hair straightening and hair botox depends on your unique requirements and hair characteristics.": "Volba mezi keratinovým narovnáním vlasů a botoxem závisí na vašich jedinečných požadavcích a vlastnostech vlasů.",
-    "Hair botox is an ideal choice if you want to smoothen your hair, eliminate frizz, and add shine. This procedure enhances hair texture, making it more manageable and smooth. It also helps prevent split ends and breakage while promoting hair length growth. On the other hand, if your primary goal is to straighten your curly or wavy hair, then keratin hair straightening is the right option.": "Botox je ideální volbou, pokud chcete vlasy vyhladit, odstranit krepatění a dodat jim lesk.  Tento zákrok zlepšuje strukturu vlasů, díky čemuž jsou lépe upravitelné a hladké. Pomáhá také předcházet roztřepeným konečkům a lámání a zároveň podporuje růst délky vlasů. Na druhou stranu, pokud je vaším hlavním cílem narovnat kudrnaté nebo vlnité vlasy, pak je keratinové narovnání vlasů tou správnou volbou",
-    "Apart from straightening, it also provides softness, smoothness, and a glossy shine to your hair.": "Kromě narovnání poskytuje vlasům také jemnost, hladkost a lesk",
-    "However, the final decision will be made on-site after a visual inspection, hair diagnosis, and a discussion with you.": "Konečné rozhodnutí se učiní na místě po vizuální prohlídce, diagnostice vlasů a diskuzi s vámi.",
+    "trimming + spa":
+    "Stříhání + spa",
+    "trimming damaged tips with subsequent spa care":
+    "stříhání poškozených konečků s následnou péčí v spa",
+    "optimal service for maintaining the health and beauty of hair":
+    "optimální služba pro udržení zdraví a krásy vlasů",
 
-    "How long does hair botox last, and what measures can be taken to maintain its effect on the hair?": "Jak dlouho trvá účinek hair botox a jaká opatření lze přijmout k udržení jeho účinku na vlasy?",
-    "Hair botox usually lasts on the hair for an average of up to 3 months. However, the duration may vary based on individual hair characteristics and care. To keep the effects of hair botox intact, it is recommended to follow these steps:": "Hair botox obvykle na vlasech vydrží průměrně až 3 měsíce, v závislosti na individuálních charakteristikách vlasů a péči. Pro udržení účinku hair botoxu se doporučuje dodržovat tyto kroky:",
-    "Choose a suitable shampoo that matches your scalp type. Apply it only to the roots and avoid washing the length of your hair.": "Vyberte si šampon vhodný pro typ své pokožky hlavy. Pouze myjte kořeny, vyhýbejte se délce vlasů.",
-    "After every shampoo, apply a conditioner for 1-2 minutes.": "Po každém mytí vlasů naneste kondicionér po dobu 1-2 minut.",
-    "Use a hair mask once or twice a week, depending on your hair washes or in-between. Apply the mask on damp hair, leave it on for 7-10 minutes, and then follow up with a 1-2 minute application of conditioner. Rinse with water.": "Používejte vlasovou masku jednou až dvakrát týdně (každé 3 mytí vlasů nebo mezi nimi). Naneste masku na vlhké vlasy (sevřete nadbytečnou vodu ručníkem), nechte ji působit 7-10 minut a poté následujte 1-2 minutovou aplikaci kondicionéru. Opláchněte vodou.",
-    "Always blow-dry your hair and avoid going to bed with wet hair.": "Vždy osušte vlasy fénem. Vyhněte se spaní s mokrými vlasy.",
-    "Use a hairdryer in the direction of the hair cuticles, following the pattern of hair growth.": "Používejte fén ve směru kutikul vlasů (následujte směr růstu vlasů).",
-    "Remember to use heat protection before every blow-dry.": "Nezapomeňte použít ochranu proti teplu před každým foukáním.",
-    "In-home care, oils, and leave-in treatments are also recommended.": "Oleje a ošetření bez oplachování jsou také doporučovány při domácí péči.",
+    "see more...":
+    "zobrazit více...",
 
-    "How long does keratin hair straightening last, and what measures can be taken to maintain its effect?": "Jak dlouho trvá keratinové vyrovnání vlasů a jaká opatření lze přijmout k udržení jeho účinku?",
-    "The effect of the treatment usually lasts for 3-5 months, depending on the type of hair and how it is taken care of. To maintain the effect and extend its duration, it is recommended that you follow these guidelines:": "Účinek obvykle trvá 3-5 měsíců, v závislosti na typu vlasů a podmínkách péče. Aby se udržel a prodloužil doba účinku, doporučuje se dodržovat tyto pokyny:",
-    "Choose a shampoo based on your scalp type. Only wash the roots and avoid the length of the hair.": "Vyberte si šampon podle typu pokožky hlavy. Myjte pouze kořeny, vyhýbejte se délce vlasů.",
-    "After each shampoo, apply conditioner for 1-2 minutes.": "Po každém mytí vlasů naneste kondicionér po dobu 1-2 minut.",
-    "Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair and squeeze out excess water with a towel.": "Používejte vlasovou masku jednou až dvakrát týdně (každé 3 mytí vlasů nebo mezi nimi). Naneste masku na vlhké vlasy (sevřete nadbytečnou vodu ručníkem).",
-    "Leave the mask on for 7-10 minutes. After the mask, apply conditioner for 1-2 minutes and then rinse with water.": "Masku nechte působit 7-10 minut. Po masce naneste kondicionér po dobu 1-2 minut, poté opláchněte vodou.",
-    "Always blow-dry your hair. Avoid going to bed with wet hair.": "Vždy osušte vlasy fénem. Vyhněte se spaní s mokrými vlasy.",
-    "Dry your hair with a hairdryer following the direction of the hair cuticles (along the growth).": "Vysušte vlasy fénem ve směru kutikul vlasů (podél růstu).",
-    "Don't forget to use heat protection before every blow-dry.": "Nezapomeňte použít ochranu proti teplu před každým foukáním.",
-    "Oils and leave-in treatments are also recommended for home care.": "Oleje a ošetření bez oplachování jsou také doporučovány při domácí péči.",
+    "frequently asked questions":
+    "Často kladené otázky",
 
-    "How long can you wear afro braids, and how should you properly care for your hair during this procedure?": "Jak dlouho můžete nosit afro copánky a jak byste měli správně pečovat o své vlasy během této procedury?",
-    "Afro braids are a great hairstyle that can be worn for 2-3 months. However, it is important to take care of your hair during this period to keep it healthy. Here are some tips to follow:": "Afro copánky můžete nosit 2-3 měsíce. Chcete-li pečovat o své vlasy během tohoto období, postupujte podle těchto doporučení:",
-    "Before washing your hair or going to bed, make sure to comb it gently to prevent tangles.": "Rozčešte si vlasy před mytím a před spaním.",
-    "At night, braid your hair loosely to avoid pulling on your scalp while you sleep.": "V noci spleťte vlasy do volného copu.",
-    "Moisturize your hair daily to keep it from becoming dry and brittle.": "Každodenně hydratujte.",
-    "When washing your hair, be gentle and avoid rubbing your scalp too hard. Apply conditioner or hair mask only to the length of the hair.": "Myjte s péčí (vyhněte se tření vlasů a pokožky hlavy; kondicionér nebo masku nanášejte pouze na délku).",
-    "To avoid breakage, comb your hair carefully, starting from the ends and working your way up to the roots.": "Jemné česání: Vlasy pečlivě češte, začínaje od konečků, abyste předešli tahání a lámání.",
+    "What can I do to prevent split ends?":
+    "Jak se vyhnout rozděleným konečkům?",
+    "To prevent split ends, it's important to trim your hair regularly and practice good hair care at home. Here are some tips:":
+    "Abyste předešli roztřepeným konečkům, je důležité vlasy pravidelně zastřihovat a doma o ně správně pečovat. Zde je několik tipů",
+    "-Use moisturizing hair masks to keep your hair healthy and nourished.":
+    "-Nanášejte hydratační masky na vlasy.",
+    "-Always use a heat protectant before using hot styling tools like flat irons and hair dryers to prevent damaging your hair and causing split ends.":
+    "-Před použitím horkých stylingových nástrojů, jako jsou žehličky a fény, vždy použijte přípravek na ochranu před teplem, abyste zabránili poškození vlasů a roztřepení konečků.",
 
-    "Receive a consultation as a gift": "Obdržte konzultaci jako dárek",
-    "including a thorough analysis of the hair care products you currently use": "včetně důkladné analýzy produktů na péči o vlasy, které v současné době používáte",
+    "How to maintain the color of dyed hair?":
+    "Jak udržovat barvu barvených vlasů?",
+    "For maintaining the color of dyed hair, use shampoos and conditioners specifically designed for color-treated hair. Avoid exposure to strong ultraviolet rays, hot water, and frequent use of heat-styling tools.":
+    "Používejte šampony a kondicionéry určené pro barvené vlasy, vyhýbejte se silnému UV záření, horké vodě a častému používání teplých nástrojů na úpravu vlasů.",
 
-    
-    "see more review": "Zobrazit více recenzí",
+    "How do I maintain the color of my colored hair?":
+    "Jak udržovat barvu mé barevné vlasové úpravy?",
+    "To keep your hair color from fading, use shampoos and conditioners specifically designed for colored hair. Also, protect your hair from excessive UV exposure, hot water, and heat styling tools.":
+    "-Pro udržení barvy barvených vlasů používejte šampony a kondicionéry určené speciálně pro barvené vlasy. Nevystavujte vlasy silnému ultrafialovému záření, horké vodě a častému používání tepelných stylingových nástrojů.",
 
-    "make a reservation": "Rezervovat",
-    "* The final price and time depends on the thickness and length, you will receive a free consultation with a hairdresser if needed": "* Konečná cena a doba závisí na tloušťce a délce vlasů. Pokud je to potřeba, obdržíte zdarma konzultaci s kadeřníkem.",
+    "How to determine which is better for me: keratin hair straightening or hair botox?":
+    "Jak zjistit, co je pro mě lepší: keratinové vyrovnání vlasů nebo botox pro vlasy?",
+    "The choice between keratin hair straightening and hair botox depends on your unique requirements and hair characteristics.":
+    "Volba mezi keratinovým narovnáním vlasů a botoxem závisí na vašich jedinečných požadavcích a vlastnostech vlasů.",
+    "Hair botox is an ideal choice if you want to smoothen your hair, eliminate frizz, and add shine. This procedure enhances hair texture, making it more manageable and smooth. It also helps prevent split ends and breakage while promoting hair length growth. On the other hand, if your primary goal is to straighten your curly or wavy hair, then keratin hair straightening is the right option.":
+    "Botox je ideální volbou, pokud chcete vlasy vyhladit, odstranit krepatění a dodat jim lesk.  Tento zákrok zlepšuje strukturu vlasů, díky čemuž jsou lépe upravitelné a hladké. Pomáhá také předcházet roztřepeným konečkům a lámání a zároveň podporuje růst délky vlasů. Na druhou stranu, pokud je vaším hlavním cílem narovnat kudrnaté nebo vlnité vlasy, pak je keratinové narovnání vlasů tou správnou volbou",
+    "Apart from straightening, it also provides softness, smoothness, and a glossy shine to your hair.":
+    "Kromě narovnání poskytuje vlasům také jemnost, hladkost a lesk",
+    "However, the final decision will be made on-site after a visual inspection, hair diagnosis, and a discussion with you.":
+    "Konečné rozhodnutí se učiní na místě po vizuální prohlídce, diagnostice vlasů a diskuzi s vámi.",
 
-    "hours": "hodin",
-    "before": "před",
-    "after": "po",
-    "from": "od",
+    "How long does hair botox last, and what measures can be taken to maintain its effect on the hair?":
+    "Jak dlouho trvá účinek hair botox a jaká opatření lze přijmout k udržení jeho účinku na vlasy?",
+    "Hair botox usually lasts on the hair for an average of up to 3 months. However, the duration may vary based on individual hair characteristics and care. To keep the effects of hair botox intact, it is recommended to follow these steps:":
+    "Hair botox obvykle na vlasech vydrží průměrně až 3 měsíce, v závislosti na individuálních charakteristikách vlasů a péči. Pro udržení účinku hair botoxu se doporučuje dodržovat tyto kroky:",
+    "Choose a suitable shampoo that matches your scalp type. Apply it only to the roots and avoid washing the length of your hair.":
+    "Vyberte si šampon vhodný pro typ své pokožky hlavy. Pouze myjte kořeny, vyhýbejte se délce vlasů.",
+    "After every shampoo, apply a conditioner for 1-2 minutes.":
+    "Po každém mytí vlasů naneste kondicionér po dobu 1-2 minut.",
+    "Use a hair mask once or twice a week, depending on your hair washes or in-between. Apply the mask on damp hair, leave it on for 7-10 minutes, and then follow up with a 1-2 minute application of conditioner. Rinse with water.":
+    "Používejte vlasovou masku jednou až dvakrát týdně (každé 3 mytí vlasů nebo mezi nimi). Naneste masku na vlhké vlasy (sevřete nadbytečnou vodu ručníkem), nechte ji působit 7-10 minut a poté následujte 1-2 minutovou aplikaci kondicionéru. Opláchněte vodou.",
+    "Always blow-dry your hair and avoid going to bed with wet hair.":
+    "Vždy osušte vlasy fénem. Vyhněte se spaní s mokrými vlasy.",
+    "Use a hairdryer in the direction of the hair cuticles, following the pattern of hair growth.":
+    "Používejte fén ve směru kutikul vlasů (následujte směr růstu vlasů).",
+    "Remember to use heat protection before every blow-dry.":
+    "Nezapomeňte použít ochranu proti teplu před každým foukáním.",
+    "In-home care, oils, and leave-in treatments are also recommended.":
+    "Oleje a ošetření bez oplachování jsou také doporučovány při domácí péči.",
 
-    "An acid composition is used to straighten curls, even for Afro hair, achieving long-lasting smoothness and silkiness.": "Inovativní technika pro vyrovnání kudrnatých vlasů. K dosažení bezchybného vyrovnání se používá kyselá kompozice, dokonce i pro africké vlasy. Ideální pro ty, kteří chtějí dosáhnout dlouhotrvající hladkosti a hedvábnosti vlasů.",
-    
+    "How long does keratin hair straightening last, and what measures can be taken to maintain its effect?":
+    "Jak dlouho trvá keratinové vyrovnání vlasů a jaká opatření lze přijmout k udržení jeho účinku?",
+    "The effect of the treatment usually lasts for 3-5 months, depending on the type of hair and how it is taken care of. To maintain the effect and extend its duration, it is recommended that you follow these guidelines:":
+    "Účinek obvykle trvá 3-5 měsíců, v závislosti na typu vlasů a podmínkách péče. Aby se udržel a prodloužil doba účinku, doporučuje se dodržovat tyto pokyny:",
+    "Choose a shampoo based on your scalp type. Only wash the roots and avoid the length of the hair.":
+    "Vyberte si šampon podle typu pokožky hlavy. Myjte pouze kořeny, vyhýbejte se délce vlasů.",
+    "After each shampoo, apply conditioner for 1-2 minutes.":
+    "Po každém mytí vlasů naneste kondicionér po dobu 1-2 minut.",
+    "Use a hair mask once or twice a week (every 3 hair washes or in between). Apply the mask to damp hair and squeeze out excess water with a towel.":
+    "Používejte vlasovou masku jednou až dvakrát týdně (každé 3 mytí vlasů nebo mezi nimi). Naneste masku na vlhké vlasy (sevřete nadbytečnou vodu ručníkem).",
+    "Leave the mask on for 7-10 minutes. After the mask, apply conditioner for 1-2 minutes and then rinse with water.":
+    "Masku nechte působit 7-10 minut. Po masce naneste kondicionér po dobu 1-2 minut, poté opláchněte vodou.",
+    "Always blow-dry your hair. Avoid going to bed with wet hair.":
+    "Vždy osušte vlasy fénem. Vyhněte se spaní s mokrými vlasy.",
+    "Dry your hair with a hairdryer following the direction of the hair cuticles (along the growth).":
+    "Vysušte vlasy fénem ve směru kutikul vlasů (podél růstu).",
+    "Don't forget to use heat protection before every blow-dry.":
+    "Nezapomeňte použít ochranu proti teplu před každým foukáním.",
+    "Oils and leave-in treatments are also recommended for home care.":
+    "Oleje a ošetření bez oplachování jsou také doporučovány při domácí péči.",
 
-    "A keratin-based hair straightening procedure that reduces frizz and provides long-lasting straight and smooth hair.": "Metoda narovnání vlasů založená na aplikaci speciální kompozice s keratinovým proteinem, který pomáhá narovnat vlasy, snižovat krepatění a poskytuje dlouhotrvající efekt. Vhodné pro ty, kteří sní o rovných, hladkých vlasech.",
+    "How long can you wear afro braids, and how should you properly care for your hair during this procedure?":
+    "Jak dlouho můžete nosit afro copánky a jak byste měli správně pečovat o své vlasy během této procedury?",
+    "Afro braids are a great hairstyle that can be worn for 2-3 months. However, it is important to take care of your hair during this period to keep it healthy. Here are some tips to follow:":
+    "Afro copánky můžete nosit 2-3 měsíce. Chcete-li pečovat o své vlasy během tohoto období, postupujte podle těchto doporučení:",
+    "Before washing your hair or going to bed, make sure to comb it gently to prevent tangles.":
+    "Rozčešte si vlasy před mytím a před spaním.",
+    "At night, braid your hair loosely to avoid pulling on your scalp while you sleep.":
+    "V noci spleťte vlasy do volného copu.",
+    "Moisturize your hair daily to keep it from becoming dry and brittle.":
+    "Každodenně hydratujte.",
+    "When washing your hair, be gentle and avoid rubbing your scalp too hard. Apply conditioner or hair mask only to the length of the hair.":
+    "Myjte s péčí (vyhněte se tření vlasů a pokožky hlavy; kondicionér nebo masku nanášejte pouze na délku).",
+    "To avoid breakage, comb your hair carefully, starting from the ends and working your way up to the roots.":
+    "Jemné česání: lasy pečlivě češte, začínaje od konečků, abyste předešli tahání a lámání.",
 
-    "This is a safe hair extension technique that uses a special material, identical to natural hair, to attach donor hair strands onto mini braids. It’s an ideal option that eliminates tangles and the need for glue.": "Toto je bezpečná technika pro prodloužení vlasů, která používá speciální materiál identický s přírodními vlasy",
+    "Receive a consultation as a gift":
+    "Obdržte konzultaci jako dárek",
+    "including a thorough analysis of the hair care products you currently use":
+    "včetně důkladné analýzy produktů na péči o vlasy, které v současné době používáte",
 
-    "This treatment involves saturating the hair’s upper cuticular layer with active components to restore structure and add shine. It is ideal for those with dry, brittle, or damaged hair and can be combined with coloring services.": "Tato procedura zahrnuje nasycení vrchního kutikulárního vrstvy vlasů aktivními složkami pro obnovení jejich struktury a přidání lesku. Tato služba je vhodná pro ty, kteří trpí suchými, křehkými nebo poškozenými vlasy. Ideální kombinace s barvením a péčí.",
+
+    "see more review":
+    "Zobrazit více recenzí",
+
+    "make a reservation":
+    "Rezervovat",
+    "* The final price and time depends on the thickness and length, you will receive a free consultation with a hairdresser if needed":
+    "* Konečná cena a doba závisí na tloušťce a délce vlasů. Pokud je to potřeba, obdržíte zdarma konzultaci s kadeřníkem.",
+
+    "hours":
+    "hodin",
+    "before":
+    "před",
+    "after":
+    "po",
+    "from":
+    "od",
+
+    "An acid composition is used to straighten curls, even for Afro hair, achieving long-lasting smoothness and silkiness.":
+    "Inovativní technika pro vyrovnání kudrnatých vlasů. K dosažení bezchybného vyrovnání se používá kyselá kompozice, dokonce i pro africké vlasy. Ideální pro ty, kteří chtějí dosáhnout dlouhotrvající hladkosti a hedvábnosti vlasů.",
 
 
-    "This is the treatment for dry, dehydrated, and damaged hair. It contains deep-penetrating ingredients that provide the hair with elasticity, strength, and softness. The treatment revitalizes the hair, making it lively and healthy without altering its natural structure. Unlike other treatments, it does not straighten or make the hair glossy.": "Terapeutický postup pro suché, dehydrované a poškozené vlasy. Zahrnuje hluboko pronikající složky pro poskytnutí vlasům:",
-    "Elasticity": "Elastičnost",
-    "Strength": "Sílu",
-    "Softness": "Jemnost",
-    "The hair becomes lively and healthy. At the same time, the hair structure remains the same, without the straightening and glossy effect.": "Vlasy se stávají živými a zdravými. Zároveň zůstává struktura vlasů stejná, bez rovnání a lesklého efektu.",
+    "A keratin-based hair straightening procedure that reduces frizz and provides long-lasting straight and smooth hair.":
+    "Metoda narovnání vlasů založená na aplikaci speciální kompozice s keratinovým proteinem, který pomáhá narovnat vlasy, snižovat krepatění a poskytuje dlouhotrvající efekt. Vhodné pro ty, kteří sní o rovných, hladkých vlasech.",
 
-    "Hair polishing involves the gentle removal of dry and damaged hair ends, giving them a healthy appearance. Suitable for all hair types.": "Olepšení vlasů zahrnuje šetrné odstranění suchých a poškozených konečků vlasů, dávající jim zdravý vzhled. Vhodné pro všechny typy vlasů.",
+    "This is a safe hair extension technique that uses a special material, identical to natural hair, to attach donor hair strands onto mini braids. It’s an ideal option that eliminates tangles and the need for glue.":
+    "Toto je bezpečná technika pro prodloužení vlasů, která používá speciální materiál identický s přírodními vlasy",
 
-    "This procedure is a comprehensive service that includes trimming damaged ends with subsequent spa care for the hair. An optimal choice for those who want to quickly and effectively maintain hair care for their health and beauty.": "Tato procedura je komplexní služba, která zahrnuje stříhání poškozených konečků následované péčí o vlasy v lázních. Optimální volba pro ty, kteří chtějí rychle a efektivně udržovat péči o vlasy pro jejich zdraví a krásu."
-    
+    "This treatment involves saturating the hair’s upper cuticular layer with active components to restore structure and add shine. It is ideal for those with dry, brittle, or damaged hair and can be combined with coloring services.":
+    "Tato procedura zahrnuje nasycení vrchního kutikulárního vrstvy vlasů aktivními složkami pro obnovení jejich struktury a přidání lesku. Tato služba je vhodná pro ty, kteří trpí suchými, křehkými nebo poškozenými vlasy. Ideální kombinace s barvením a péčí.",
+
+
+    "This is the treatment for dry, dehydrated, and damaged hair. It contains deep-penetrating ingredients that provide the hair with elasticity, strength, and softness. The treatment revitalizes the hair, making it lively and healthy without altering its natural structure. Unlike other treatments, it does not straighten or make the hair glossy.":
+    "Terapeutický postup pro suché, dehydrované a poškozené vlasy. Zahrnuje hluboko pronikající složky pro poskytnutí vlasům:",
+    "Elasticity":
+    "Elastičnost",
+    "Strength":
+    "Sílu",
+    "Softness":
+    "Jemnost",
+    "The hair becomes lively and healthy. At the same time, the hair structure remains the same, without the straightening and glossy effect.":
+    "Vlasy se stávají živými a zdravými. Zároveň zůstává struktura vlasů stejná, bez rovnání a lesklého efektu.",
+
+    "Hair polishing involves the gentle removal of dry and damaged hair ends, giving them a healthy appearance. Suitable for all hair types.":
+    "Olepšení vlasů zahrnuje šetrné odstranění suchých a poškozených konečků vlasů, dávající jim zdravý vzhled. Vhodné pro všechny typy vlasů.",
+
+    "This procedure is a comprehensive service that includes trimming damaged ends with subsequent spa care for the hair. An optimal choice for those who want to quickly and effectively maintain hair care for their health and beauty.":
+    "Tato procedura je komplexní služba, která zahrnuje stříhání poškozených konečků následované péčí o vlasy v lázních. Optimální volba pro ty, kteří chtějí rychle a efektivně udržovat péči o vlasy pro jejich zdraví a krásu.",
+
+    "Thank you so much for the amazing work with my hair! I am extremely satisfied. I didn't expect such fantastic results! You have golden hands! My hair was very fluffy and curly, and now I can't stop admiring myself. Thanks again, and we will definitely meet for the next procedure.":
+    "Děkuji vám moc za krásnou práci s mými vlasy! Jsem opravdu spokojená. Nečekala jsem takové výsledky! Máte zlaté ruce! Moje vlasy byly velmi nadýchané a kudrnaté, a teď se nemohu nabažit svého vzhledu. Ještě jednou díky a určitě se uvidíme při další proceduře.",
+
+    "I washed and dried my hair without using a flat iron as I used to. The result: straight, smooth, and frizz-free hair. Previously, I needed a flat iron after each drying session, but now I can forget about it. In the morning, a simple combing is enough, and my hair looks much longer. I'm 100% satisfied and couldn't have imagined my hair looking this wonderful. Your work is superb! Thank you!":
+    "Umyla jsem si vlasy a usušila je fénem, aniž bych použila žehličku, jak jsem dělávala dříve. Výsledek: rovné, hladké a bez krepatění vlasů. Dříve jsem potřebovala žehličku po každém foukání vlasů, ale teď na ni mohu zapomenout. Ráno stačí pouze pročesat vlasy, a jsou již ve velmi dobrém stavu. A vizuálně vypadají mnohem delší. Zkrátka jsem s výsledkem spokojena na 100 % a nemohla jsem si představit, že moje vlasy budou vypadat tak úžasně! Vaše práce je skvělá! Děkuji moc.",
+
+    "And thank you for the result- I can see how beautiful and lively my hair is after your procedures.": 
+    "A také vám děkuji za výsledek-vidím, jak krásné a živé jsou moje vlasy po vašich procedurách.",
+
+    "Hello! It's been two weeks already, and I just can't get enough of my hair, to be honest. They are straight, shiny, and without any frizz. Changing my hair care routine made a significant difference. It turned out to be inexpensive, but it quickly became clear that everything was chosen correctly. Thank you.":
+    "Ahoj! Už uplynuly dvě týdny, a nemohu se vynadívat svým vlasům, abych byl upřímný. Jsou rovné, lesklé a bez nafouklých vlasů. Změna péče o vlasy mi hodně pomohla - vyšlo to levně, ale rychle bylo jasné, že vše bylo vybráno správně. Děkuji."
 }

@@ -5,9 +5,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta title="Your Hair Care, kadeřnictví, salon péče o vlasy">
         <meta description="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
-        <meta og:title="Your Hair Care, kadeřnictví, salon péče o vlasy">
-        <meta og:description="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
-        <meta og:image="https://your-haircare.com/img/photos/logo.png">
+        <meta property="og:title" content="Your Hair Care, kadeřnictví, salon péče o vlasy">
+        <meta property="og:description" content="Vítejte v našem útulném studiu péče o vlasy! Náš přístup ke kadeřnickým službám je zaměřen na technické dovednosti a pozornost k vašim individuálním potřebám. Snažíme se vytvořit společenství krásy, kde je vaše spokojenost naší nejvyšší prioritou.">
+        <meta property="og:image" content="https://your-haircare.com/img/photos/logo.png">
+        <meta property="og:site_name" content="Your Hair Care">
+        <meta property="og:locale" content="{{ app()->getLocale() }}">
+        <meta property="og:url" content="https://your-haircare.com">
         <title>Your Hair Care</title>
 
         <!-- Fonts -->
@@ -787,37 +790,37 @@
                         <div class="w-full md:w-1/4 space-y-4">
                             <i class="fa-solid fa-quote-right text-4xl text-gold"></i>
                             <p class="ml-6 text-[#FFFDD8]">
-                                {{ __("Thank you so much for making my hair so beautiful. hair, I'm very happy with it. I didn't expect such a result. You've got golden hands. My hair was very frizzy and curly, and now I can't even I can't get enough of it. Thank you very much again and I will definitely see you at the next session!") }}
+                                {{ __("Thank you so much for the amazing work with my hair! I am extremely satisfied. I didn't expect such fantastic results! You have golden hands! My hair was very fluffy and curly, and now I can't stop admiring myself. Thanks again, and we will definitely meet for the next procedure.") }}
                             </p>
                             <span class="text-[#FFFDD8] float-right">
-                                lenka
+                                Anna
                             </span>
                         </div>
                         <div class="w-full md:w-1/4 space-y-4">
                             <i class="fa-solid fa-quote-right text-4xl text-gold"></i>
                             <p class="ml-6 text-[#FFFDD8]">
-                                {{ __("Thank you so much for making my hair so beautiful. hair, I'm very happy with it. I didn't expect such a result. You've got golden hands. My hair was very frizzy and curly, and now I can't even I can't get enough of it. Thank you very much again and I will definitely see you at the next session!") }}
+                                {{ __("I washed and dried my hair without using a flat iron as I used to. The result: straight, smooth, and frizz-free hair. Previously, I needed a flat iron after each drying session, but now I can forget about it. In the morning, a simple combing is enough, and my hair looks much longer. I'm 100% satisfied and couldn't have imagined my hair looking this wonderful. Your work is superb! Thank you!") }}
                             </p>
                             <span class="text-[#FFFDD8] float-right">
-                                lenka
+                                Helena
                             </span>
                         </div>
                         <div class="w-full md:w-1/4 space-y-4">
                             <i class="fa-solid fa-quote-right text-4xl text-gold"></i>
                             <p class="ml-6 text-[#FFFDD8]">
-                                {{ __("Thank you so much for making my hair so beautiful. hair, I'm very happy with it. I didn't expect such a result. You've got golden hands. My hair was very frizzy and curly, and now I can't even I can't get enough of it. Thank you very much again and I will definitely see you at the next session!") }}
+                                {{ __("And thank you for the result- I can see how beautiful and lively my hair is after your procedures.") }}
                             </p>
                             <span class="text-[#FFFDD8] float-right">
-                                lenka
+                                Marina
                             </span>
                         </div>
                         <div class="w-full md:w-1/4 space-y-4">
                             <i class="fa-solid fa-quote-right text-4xl text-gold"></i>
                             <p class="ml-6 text-[#FFFDD8]">
-                                {{ __("Thank you so much for making my hair so beautiful. hair, I'm very happy with it. I didn't expect such a result. You've got golden hands. My hair was very frizzy and curly, and now I can't even I can't get enough of it. Thank you very much again and I will definitely see you at the next session!") }}
+                                {{ __("Hello! It's been two weeks already, and I just can't get enough of my hair, to be honest. They are straight, shiny, and without any frizz. Changing my hair care routine made a significant difference. It turned out to be inexpensive, but it quickly became clear that everything was chosen correctly. Thank you.") }}
                             </p>
                             <span class="text-[#FFFDD8] float-right">
-                                lenka
+                                Alina
                             </span>
                         </div>
                     </div>
