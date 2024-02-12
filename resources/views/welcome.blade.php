@@ -38,6 +38,18 @@
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YYXW0HC136"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YYXW0HC136');
+    </script>
+
     <body class="antialiased">
         <x-modal name="nanoplastics" maxWidth="lg">
             <x-slot name="title">
